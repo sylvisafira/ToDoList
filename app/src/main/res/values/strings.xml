@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To Do List 2</string>
+    <string name="judulHeaderMain">Macam-macam Layout</string>
+    <string name="judulHeaderRelativeLayout">Relative Layout</string>
+    <string name="judulHeaderLinierLayout">Linier Layout</string>
+    <string name="judulHeaderTableLayout">Table Layout</string>
+    <string name="judulHeaderFrameLayout">Frame Layout</string>
+    <string name="btnExit">Exit</string>
+    <string name="textJudulList">Judul Tulisan</string>
+    <string name="textSubjudul">Sub judul</string>
+    <string name="tanggal">12-11-2018</string>
+
+</resources>
